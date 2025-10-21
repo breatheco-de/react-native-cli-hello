@@ -1,4 +1,4 @@
-# Proyecto Plantilla - React Native
+# Plantilla - React Native
 
 ## Requerimientos:
 
