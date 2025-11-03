@@ -6,9 +6,11 @@
 https://reactnative.dev/docs/set-up-your-environment
 
 Se requiere:
-- Android Studio - version Jellyfish, como minimo
-    Descargar Android SDK 36 y Build Tools 36
 - XCode 16.1 (o versiones posteriores)
+- - **Java 17 (Temurin/Adoptium)** para Gradle/AGP.  
+- **Android Studio Jellyfish o superior**  
+  - SDK **Android SDK 36** y **Build-Tools 36**  
+  - Variables: `ANDROID_HOME`, `PATH` con `platform-tools/` y `emulator/`.
 - Node 20: Se recomienda instalarlo usando nvm https://github.com/nvm-sh/nvm
 - Ruby 3.1.0: Se recomienda instalarlo usando rbenv https://github.com/rbenv/rbenv
 
