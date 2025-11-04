@@ -7,7 +7,7 @@ https://reactnative.dev/docs/set-up-your-environment
 
 Se requiere:
 - XCode 16.1 (o versiones posteriores)
-- - **Java 17 (Temurin/Adoptium)** para Gradle/AGP.  
+- **Java 17 (Temurin/Adoptium)** para Gradle/AGP.  
 - **Android Studio Jellyfish o superior**  
   - SDK **Android SDK 36** y **Build-Tools 36**  
   - Variables: `ANDROID_HOME`, `PATH` con `platform-tools/` y `emulator/`.
